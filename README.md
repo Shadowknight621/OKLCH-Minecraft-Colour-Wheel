@@ -1,5 +1,5 @@
-# OKLCH-Minecraft-Colour-Wheel
-A Number of different colour wheels and gradients that display the average colours of Minecraft blocks, using the OKLCH colour space. Hover over a block to see its full name, and click to pin the name permanently. This was created for personal use, but I decided to share it in case others wanted to use it as well.
+# Minecraft-Color-Wheel
+A number of different colour wheels and gradients that display the average colours of Minecraft blocks, using the OKLCH colour space. Hover over a block to see its full name, and click to pin the name permanently. This was created for personal use, but I decided to share it in case others wanted to use it as well.
 
 Usage: The colour wheel should automatically load the CSV and texture files. If that doesn't work, however, you will be required to upload the CSV and texture data manually. For the CSV, simply open "metadata_minecraft_block_textures_filtered.csv" in a program like Excel, select all (control-A on Windows) and copy (control-C); make sure you selected and copied all the data (including the top row). Then, paste the information into the text box. For the CSV file, simply upload the "textures.zip" file. Finally, click "process data" to show the colour wheels.
 Block names will appear when you hover over the block icon, and will remain in place when clicked until clicked again. (The area to click is actually a circle centred on the centre of each block, so it doesn't exactly match the edges of the icon).
